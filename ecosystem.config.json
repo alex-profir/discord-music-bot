@@ -1,0 +1,10 @@
+{
+    "apps": [{
+        "name": "codex-bot",
+        "script": "dist/index.js",
+        "autorestart": true,
+        "source_map_support": true,
+        "watch": false,
+        "time": true
+    }]
+}
